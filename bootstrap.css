@@ -1,0 +1,67 @@
+.btn btn-success{
+    color: white;
+}
+#navbarDropdownMenuLink{
+    margin-top: 30%;
+}
+#navbarNavDropdown{
+    display: inline-block;
+}
+#caret{
+color: white;
+background-color: green;
+}
+.navbar-brand{
+font-family: 'PT Sans', sans-serif;
+color:grey;}
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 3px;
+    justify-content: space-evenly;
+}
+.item {
+    margin: 3px;
+}
+body {
+    box-sizing: border-box;
+    line-height: 1;
+}
+body{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+#pills-tab{
+    padding-left: 600px;
+}
+img {object-fit: cover;}
+div.post{background: white;
+    margin-top: 10px;}
+div.post img{
+    width: 100%;
+}
+div.container-post{
+    width:600px;
+    margin: auto;
+}
+div.post h2, div.post p{
+    padding: 10px;
+    margin: 0;
+}
+div.post .post-header div:first-child {
+    display: inline-block;
+    width: 80%
+
+}
+div.post .post-header div:last-child {
+    display: inline-block;
+    width: 18%
+    color: grey;
+
+}
+
+    
